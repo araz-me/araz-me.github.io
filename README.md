@@ -40,6 +40,7 @@ Basic programming concepts are the fundamental building blocks of computer progr
 <div align="justify">
 Understanding these basic programming concepts is essential for anyone who wants to learn how to program. By mastering these concepts, you can write efficient, reliable, and maintainable code that meets the needs of your users.
 </div>
+
 ### Introduction to Programming
 
 <div align="justify">
