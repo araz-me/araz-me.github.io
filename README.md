@@ -7,8 +7,6 @@
 
 [TOC]
 
-
-
 # Back-end Developer
 
 ## Introduction to Back-end Development 
